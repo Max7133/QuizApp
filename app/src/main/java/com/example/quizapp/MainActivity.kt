@@ -1,5 +1,5 @@
 package com.example.quizapp
-// Maksim Pasnitsenko 1910066
+
 import android.content.Intent
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
